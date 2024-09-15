@@ -20,18 +20,6 @@ Este projeto realiza uma **análise de sentimentos** nos comentários do YouTube
 - **Unidecode** (para remoção de acentos)
 - **Regex** (para limpeza do texto)
 
-## Estrutura do Projeto
-
-```bash
-.
-├── data/               # Dados brutos (não incluídos no GitHub)
-├── notebooks/          # Notebooks Jupyter/Colab (.ipynb)
-├── scripts/            # Scripts Python (.py) com funções reutilizáveis
-├── outputs/            # Gráficos e resultados finais
-├── README.md           # Descrição do projeto
-├── requirements.txt    # Lista de dependências do projeto
-└── .gitignore          # Arquivos a serem ignorados pelo Git
-```
 ## Descrição dos Diretórios:
 * data/: Contém os dados brutos (se houver). Não incluído no GitHub.
 * notebooks/: Contém os notebooks Jupyter/Colab onde a análise foi feita.
